@@ -1,25 +1,17 @@
 ### Hi there 👋 Welcome to my page.
+-----
 
-##### Visit my portfolio to see a collection of my work:
-<a href="https://github.com/mandi1120/amanda-hanway-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mandi1120&repo=amanda-hanway-portfolio&bg_color=00000000" />
-</a>
-<a href="https://github.com/mandi1120/amanda-hanway-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mandi1120&show_icons=true&bg_color=00000000&hide=issues,contribs&hide_title=true" />
-</a>
+I am a data analyst who enjoys using technical skills and analytical expertise to gain insight from data. Here you will find projects using python, SQL, and other assorted tools or languages I have been learning.  
 
-<!--
-##### Visit my portfolio to see a collection of my work:  
+#### Visit my portfolio to see a collection of my work:  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mandi1120&repo=amanda-hanway-portfolio)](https://github.com/mandi1120/amanda-hanway-portfolio)
 
-Visit my [portfolio](https://github.com/mandi1120/amanda-hanway-portfolio)  
-<a href="https://github.com/mandi1120/amanda-hanway-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mandi1120&repo=amanda-hanway-portfolio" />
-</a>
-<a href="https://github.com/mandi1120/amanda-hanway-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mandi1120&repo=amanda-hanway-portfolio" />
-</a>
 
+
+
+<!--
+see https://github.com/anuraghazra/github-readme-stats for stats box instructions
+                                               
 **mandi1120/mandi1120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -32,4 +24,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 -->
