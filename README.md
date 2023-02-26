@@ -1,6 +1,9 @@
-### Hi there 👋
-
+### Hi there 👋 Welcome to my page.
 <!--
+  
+Visit my [portfolio](https://github.com/mandi1120/amanda-hanway-portfolio)  
+
+
 **mandi1120/mandi1120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
