@@ -4,9 +4,10 @@
 I am a data analyst who enjoys using technical skills and analytical expertise to gain insight from data. Here you will find projects using python, SQL, and other assorted tools or languages I have been learning.  
 
 #### Visit my portfolio to see a collection of my work:  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mandi1120&repo=amanda-hanway-portfolio)](https://github.com/mandi1120/amanda-hanway-portfolio)
-
-
+<a href="https://mandi1120.github.io/" target=""><img src="https://github.com/mandi1120/mandi1120/raw/main/portfolio.png" alt="Portfolio" width="200">
+  
+<br>
+<br>
 
 
 <!--
