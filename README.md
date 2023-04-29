@@ -3,7 +3,7 @@
 
 I am a data analyst who enjoys using technical skills and analytical expertise to gain insight from data. Here you will find projects using python, SQL, and other assorted tools or languages I have been learning.  
 
-#### Visit my portfolio to see a collection of my work:  
+<h4>Visit my <a href="https://mandi1120.github.io/" target="_blank">portfolio</a> to see a collection of my work: </h4>  
 <a href="https://mandi1120.github.io/" target="_blank"><img src="https://github.com/mandi1120/mandi1120/raw/main/portfolio.png" alt="Portfolio" width="200">
   
 <br>
